@@ -49,7 +49,7 @@ Trained on over **7,500 images** with GPU acceleration using **Google Colab**, t
 > Final Training Result (93.9% Validation Accuracy)
 
 [Training Output](https://github.com/RayanAIX/face-mask-detector/blob/2a3bb9c6e2f38d6f5eb0993d7a0c4c3644f39357/training_output.png)
-
+![Training Output](training_output.png)
 
 ---
 
