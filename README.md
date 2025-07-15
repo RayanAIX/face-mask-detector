@@ -48,7 +48,7 @@ Trained on over **7,500 images** with GPU acceleration using **Google Colab**, t
 
 > Final training results with accuracy plot and epoch logs
 
-![Training Output](training_output.png)
+![Training Output](assets/training_output.png)
 
 ---
 
