@@ -100,6 +100,3 @@ Founder of [ByteBrilliance AI](https://www.youtube.com/@ByteBrillianceAI)
 
 ---
 
-## 🧠 Special Note
-
-This project is part of my journey to become an **AI Engineer**, build a world-class **GitHub profile**, secure a **scholarship at MBZUAI**, and land a **remote AI job** at a top international company. 💥
