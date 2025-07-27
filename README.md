@@ -1,5 +1,3 @@
-# face-mask-detector
-Deep Learning project using CNN to detect face masks in images
 # 😷 Face Mask Detector – Deep Learning Project
 
 This is a deep learning-based Face Mask Detector built using **Convolutional Neural Networks (CNN)** in TensorFlow/Keras.  
