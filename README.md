@@ -7,6 +7,11 @@ Trained on over **7,500 images** with GPU acceleration using **Google Colab**, t
 
 ---
 
+## 🔴 Live Demo
+👉 Try it on Streamlit: [Face Mask Detector App](https://face-mask-detector-fwx9vwwnvbxbg3l89ifvjx.streamlit.app/)
+
+---
+
 ## 📂 Dataset
 
 - ✅ `with_mask/` – 3,725 images  
